@@ -13,7 +13,7 @@ import { Navigate, Route,Routes } from 'react-router-dom'
 import Home from './pages/Home'
 import Login from './components/Login'
 import AjouterEvent from './components/AjouterEvent'
-//import EventPrice from './components/EventPrice'
+
 import NotFound from './components/NotFound'
 import NavigationBar from './components/NavigationBar'
 //import EventDetails from './components/EventDetails'
